@@ -1,0 +1,3 @@
+selenium
+easygui
+tweepy==3.5.0
